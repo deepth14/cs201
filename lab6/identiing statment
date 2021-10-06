@@ -1,0 +1,50 @@
+1.a,
+if(a==b)
+    if(c==d)
+        a=1;
+      else
+        b=1;
+     else
+        c=1;
+
+
+b,
+indented if statement
+    if(a==b)
+        a=1;
+        if(c==d)
+            b=1;
+         else c=1;
+
+ c,indented if statement
+    if(a==b){
+        if(c==d)
+            a=1;
+          b=2;
+    else
+          b=1;
+
+ d,
+     if(a=b)
+     {
+        if(c==d)
+            a=1;
+         b=2;
+     }
+     else
+     {
+         b=1;
+         if(a==d)
+
+ //////////////////////////////////////////////////////
+ 2.Statement a and c of the giving if statement are equivalent to each other . though the indent style is different but the structure result is the same
+  // statement b is different from the pother two statement because a nested if is present inside the if block.
+  /////////////////////////////////////////////////////////////////////////////////////
+  3.a, the value of the boolean expression is always false for the value  of x. where x is 10. the value on both left and right side of th OR operator are false.
+  b,false
+  c,true
+  d,true
+  e,false
+  f,true
+  g,false
+  h,true
