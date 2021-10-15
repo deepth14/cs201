@@ -2,9 +2,9 @@ package lab10;
 
 public class QA1 {
     public static void main(String[] args) {
-        double x;
 
-        
+
+        System.out.println();
 
         System.out.println();
     }
@@ -78,4 +78,4 @@ double coldest = getColdest(temperature);
     }
         return (max-min);
 
-}
+}}

@@ -1,0 +1,25 @@
+Question 1
+
+--> Input  -1
+Error not zero
+
+--> input 0
+I am happy
+
+-->input 12xy
+Invalid entry
+
+Question 2
+
+--> Input     -1
+Error not zero
+Finally Clause Executed
+
+-->input 0
+I am happy
+Finally Clause Executed
+
+
+--> input 12xy
+Invalid entry
+Finally Clause Executed

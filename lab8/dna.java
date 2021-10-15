@@ -2,7 +2,7 @@ package lab8;
 
 public class dna {
     public static void main(String[] args) {
-        System.out.println(dnaComp("GATTCGATC")); 
+        System.out.println(dnaComp("GATTCGATC"));
 
     }
     public static String dnaComp(String dna){
